@@ -42,6 +42,8 @@ SOP-VISION 站在工位旁边看人干活：相机持续取流，模型识别动
 
 ![账号管理](screenshots/05-users.png)
 
+![个人中心](screenshots/07-profile.png)
+
 **MES / 系统对接** —— 四种协议独立开关，断网不丢数据。
 
 ![MES 对接](screenshots/06-mes.png)
